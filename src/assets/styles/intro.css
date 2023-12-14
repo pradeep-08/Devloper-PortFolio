@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:ital,wght@0,500;1,300;1,700&family=Rubik+Bubbles&family=Source+Sans+3:wght@500&display=swap');
+
+.image-div{
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+}
+
+.intro-img{
+    margin-top: 100px;
+    margin-left: 55px;
+    justify-content: center;
+    width: 55%;
+    
+}
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    width: auto;
+    
+}
+.info-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    width: 816px;
+    letter-spacing: 3.6px;
+    
+}
+.main-name{
+    color: #000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    padding-left: 990px;
+    position: absolute;
+    
+}
+h5{
+    padding: 20px;
+}
+
+.description{
+    color: #000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    line-height: normal;
+    position: absolute;
+    padding-top: 50px;
+    padding-right: 200px;
+    
+}
+.button-div{
+    width: auto;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+.project-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 168px;
+    height: 56px;
+    background: #00FA82;
+    border: none;
+    color: #000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 3px 3px  15px #000000;
+    line-height: normal;
+    letter-spacing: 3.6px;
+    cursor: pointer;
+}

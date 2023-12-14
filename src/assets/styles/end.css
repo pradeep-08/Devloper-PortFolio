@@ -1,0 +1,27 @@
+.end-main-div{
+    height: 300px;
+    width: auto;
+    background-color: black;
+    display: flex;
+    padding-left: 150px;
+    padding-top: 50px;
+    
+}
+
+.end-name{
+    color: #FFF;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.end-descriptions{
+    color: #FFF;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

@@ -1,0 +1,97 @@
+.second-page-container{
+    width: auto;
+    height: 1000px;
+}
+
+.about-me{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 6px;
+}
+
+.image{
+    width: 40%;
+    display: flex;
+    justify-content: right;
+    box-shadow: 1px 5px 19px #000000;
+    cursor: pointer;
+    border-radius: 15px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-content{
+    color: #515151;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4px;
+    width: 898px;
+    height: 71px;
+    padding-top: 30px;
+    
+}
+.second{
+    color: #515151;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4px;
+    width: 898px;
+    height: 71px;
+    padding-top: 40px;
+}
+.know-me{
+    color: #000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 6px;
+    padding: 10px;
+    
+}
+.button-div1{
+    width: auto;
+}
+.button1{
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 150px;
+    cursor: pointer;
+}
+.project-button1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 168px;
+    height: 56px;
+    background: #00FA82;
+    border: none;
+    color: #000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 3px 3px 15px #000000;
+    line-height: normal;
+    letter-spacing: 3.6px;
+    cursor: pointer;
+}
+
+.size-text{
+    font-weight: bolder;
+    font-size: 24px;
+}

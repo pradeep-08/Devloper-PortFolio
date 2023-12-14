@@ -1,0 +1,45 @@
+.certification{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 6px;
+    border-bottom: 1px;
+    border-bottom-color: #5f0000;
+}
+.udemy-certificate{
+    width: 50%;
+    margin-left: 15px;
+    box-shadow: 1px 1px 10px rgb(42, 253, 105);
+    display: flex;
+    justify-content: center;
+}
+
+.certificate-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.summary{
+    color: #ffffff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+.summary-description{
+    width: 80%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
