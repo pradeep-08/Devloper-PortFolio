@@ -4,6 +4,7 @@
     background-color: #000;
     padding-top: 10px;
     padding-bottom: 30px;
+    box-shadow: 1px 1px 50px rgb(0, 0, 0);
   
 }
 
@@ -75,7 +76,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 1px 1px  1px 2px #ffffff;
+    box-shadow: 1px 1px 10px rgb(42, 253, 105);
     cursor: pointer;
 }
 

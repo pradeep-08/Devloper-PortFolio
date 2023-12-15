@@ -8,7 +8,7 @@ function intro() {
     <div className="main-div">
     <div className="image-div">
     <img className='intro-img' src={Intro} alt="" />
-    <div className="main-name"><span className='shadow'><h5>HI, I'M PRADEEP .</h5></span></div>
+    <div className="main-name"><span className='shadow'><h5>HI, I'M PRADEEP </h5></span></div>
     <div>
     <div className="description">Web Developer</div>
     </div>
