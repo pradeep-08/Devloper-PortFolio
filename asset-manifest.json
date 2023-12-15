@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Devloper-PortFolio/static/css/main.4de0ed52.css",
-    "main.js": "/Devloper-PortFolio/static/js/main.d64025ad.js",
+    "main.css": "/Devloper-PortFolio/static/css/main.372ceabc.css",
+    "main.js": "/Devloper-PortFolio/static/js/main.42081f02.js",
     "static/media/skillstwo.jpg": "/Devloper-PortFolio/static/media/skillstwo.762caa8fd22e178837f6.jpg",
     "static/media/intro.jpg": "/Devloper-PortFolio/static/media/intro.2656a9bfc84f574ea56a.jpg",
     "static/media/19362653.jpg": "/Devloper-PortFolio/static/media/19362653.0a4893421f4eb80a395c.jpg",
@@ -10,11 +10,11 @@
     "static/media/3817242.jpg": "/Devloper-PortFolio/static/media/3817242.fd05a19ef9734b407a72.jpg",
     "static/media/remove-laptop.png": "/Devloper-PortFolio/static/media/remove-laptop.4a1cc0d11ce5df6334b3.png",
     "index.html": "/Devloper-PortFolio/index.html",
-    "main.4de0ed52.css.map": "/Devloper-PortFolio/static/css/main.4de0ed52.css.map",
-    "main.d64025ad.js.map": "/Devloper-PortFolio/static/js/main.d64025ad.js.map"
+    "main.372ceabc.css.map": "/Devloper-PortFolio/static/css/main.372ceabc.css.map",
+    "main.42081f02.js.map": "/Devloper-PortFolio/static/js/main.42081f02.js.map"
   },
   "entrypoints": [
-    "static/css/main.4de0ed52.css",
-    "static/js/main.d64025ad.js"
+    "static/css/main.372ceabc.css",
+    "static/js/main.42081f02.js"
   ]
 }
