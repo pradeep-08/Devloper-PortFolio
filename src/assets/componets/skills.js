@@ -3,7 +3,8 @@ import '../styles/skills.css';
 import Logo from '../../images/skillstwo.jpg';
 function skills() {
   return <><div className="main-div1">
-        <h2 className='skills'>MY SKILLS</h2>
+
+        <h2 className='skills'><div className="my-skills">MY SKILLS</div></h2>
         
         <div className="skills-container-main">
         <div className="skills-container-second">
@@ -21,12 +22,14 @@ function skills() {
             <div className="skills-items">JS</div>
             <div className="skills-items">NODE JS</div>
             </div>
-            <div className="third-row"> <div className="skills-items">MONGODB Basic</div>
+             <div className="third-row"> 
+             <div className="skills-items">MONGODB Basic</div>
             
             <div className="skills-items ">SQL Basic</div>
             </div>
-            <div className="fourth-row"><div className="skills-items adjustment">RESPONSIVE WEB</div></div>
+            <div className="fourth-row"><div className="skills-items adjustment">RESPONSIVE WEB</div>
             </div>
+            </div>  
             
         </div>
   </div></>

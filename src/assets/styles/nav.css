@@ -9,6 +9,18 @@
     opacity: 0.90;
   
 }
+@media screen and (max-width: 768px) {
+    .nav-bar{
+        background-color: black;
+        height: 4.92rem;
+        width: fit-content;
+        display: flex;
+        justify-content: space-around;
+        position: fixed;
+        opacity: 0.90;
+      
+    }
+}
 .nav-containers{
     display: flex;
     align-items: center;

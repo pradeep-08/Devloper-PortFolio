@@ -16,7 +16,7 @@ function second() {
          
         </div>
         
-        <img className='image' src={Logo} alt="" />
+         <img className='image' src={Logo} alt="" /> 
        
         </div>
         

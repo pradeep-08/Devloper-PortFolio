@@ -10,7 +10,10 @@ function intro() {
     <img className='intro-img' src={Intro} alt="" />
     <div className="main-name"><span className='shadow'><h5>HI, I'M PRADEEP </h5></span></div>
     <div>
+    {/* <div className="decription-main">
     <div className="description">Web Developer</div>
+    </div> */}
+    
     </div>
     
     </div>

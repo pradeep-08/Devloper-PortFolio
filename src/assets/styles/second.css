@@ -1,6 +1,6 @@
 .second-page-container{
     width: auto;
-    height: 1000px;
+    height: 800px;
     box-shadow: 1px 1px 20px rgb(0, 0, 0);
 }
 
@@ -15,7 +15,6 @@
     line-height: normal;
     letter-spacing: 6px;
 }
-
 .image{
     width: 40%;
     display: flex;
@@ -95,4 +94,163 @@
 .size-text{
     font-weight: bolder;
     font-size: 24px;
+}
+@media screen  and (max-width: 768px) and (min-width: 476px){
+    .button1{
+        display: flex;
+        padding-left: 30px;
+        cursor: pointer;
+    }
+    .project-button1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 138px;
+        height: 50px;
+        background: #00FA82;
+        border: none;
+        color: #000;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        box-shadow: 3px 3px 15px #000000;
+        line-height: normal;
+        letter-spacing: 3.6px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+    .about-me{
+        padding-top: 30px;
+        display: flex;
+        justify-content: center;
+        color: #000;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        letter-spacing: 6px;
+        text-shadow: 1px 1px 15px rgb(27, 27, 27);
+    }
+    .about-content{
+        color: #515151;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 4px;
+        width: fit-content;
+        height: fit-content;
+        padding-top: 30px;
+        
+    }
+    .second-page-container{
+        width: auto;
+        height: fit-content;
+        box-shadow: 1px 1px 20px rgb(0, 0, 0);
+    }
+    .child{
+        display: flex;
+        justify-content: center;
+        margin-inline: 15px;
+    }
+    .know-me{
+        color: #000;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 700;
+        letter-spacing: 6px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-shadow: 1px 1px 15px rgb(55, 242, 255);
+        
+    }
+    .image{
+        width: 0%;
+        box-shadow: 1px 5px 19px #000000;
+        cursor: pointer;
+        border-radius: 15px;
+    }
+}
+
+@media screen  and (max-width: 475px) and (min-width: 320px){
+    .button1{
+        display: flex;
+        padding-left: 30px;
+        cursor: pointer;
+        padding-bottom: 30px;
+    }
+    .project-button1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 138px;
+        height: 50px;
+        background: #00FA82;
+        border: none;
+        color: #000;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        box-shadow: 3px 3px 15px #000000;
+        line-height: normal;
+        letter-spacing: 3.6px;
+        cursor: pointer;
+    }
+    .about-me{
+        padding-top: 30px;
+        display: flex;
+        justify-content: center;
+        color: #000;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        letter-spacing: 6px;
+        text-shadow: 1px 1px 15px rgb(27, 27, 27);
+    }
+    .about-content{
+        color: #515151;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 4px;
+        width: fit-content;
+        height: fit-content;
+        padding-top: 30px;
+        
+    }
+    .second-page-container{
+        width: auto;
+        height: fit-content;
+        box-shadow: 1px 1px 20px rgb(0, 0, 0);
+    }
+    .child{
+        display: flex;
+        justify-content: center;
+        margin-inline: 15px;
+    }
+    .know-me{
+        color: #000;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 700;
+        letter-spacing: 6px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-shadow: 1px 1px 15px rgb(55, 255, 65);
+        
+    }
+    .image{
+        width: 0%;
+        box-shadow: 1px 5px 19px #000000;
+        cursor: pointer;
+        border-radius: 15px;
+    }
 }
